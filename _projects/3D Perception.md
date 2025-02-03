@@ -4,7 +4,7 @@ title: 3D Perception
 description: Object Detection Using Point Cloud Data and Filter Pipelines
 img: assets/img/perception.jpg
 importance: 2
-category: work
+category: robotics
 giscus_comments: true
 ---
 
