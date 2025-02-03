@@ -12,5 +12,5 @@ Collected training and validation data with drone filming person of interest wal
 
 Designed and trained neural network (depth of 4 encoder/decoder layers and 1x1 convolution layer) for semantic segmentation – to parse a test image and identify the target, crowd and background in the image pixels for drone to follow the target.
 
-<a href="https://github.com/caseycui/FollowMe">GitHub Repo</a>)
+<a href="https://github.com/caseycui/FollowMe">GitHub Repo</a>
 
