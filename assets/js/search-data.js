@@ -413,11 +413,6 @@ ninja.data = [{
           description: "another without an image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-deep-fashion-network",
-          title: 'Deep Fashion Network',
-          description: "garment categorization network based off ResNet-50 and trained on Deep Fashion Database",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
             },},{id: "projects-project-6",
           title: 'project 6',
           description: "a project with no image",
@@ -438,6 +433,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-deep-fashion-network",
+          title: 'Deep Fashion Network',
+          description: "garment categorization network based off ResNet-50 and trained on Deep Fashion Database",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Deep-Fashion-Network/";
             },},{id: "projects-robot-arm-pick-and-place",
           title: 'Robot Arm Pick and Place',
           description: "a project with a background image and giscus comments",
