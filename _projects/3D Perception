@@ -13,4 +13,4 @@ ROS camera node capturing a simulated desktop in Gazebo.
 
 Utilized KD-tree clustering to group filtered points and trained a Support Vector Machine (SVM) using HSV histogram and surface vector features to classify each Point Cloud cluster.
 
-<a href="https://github.com/caseycui/robot_3d_perception">GitHub Repo</a>).
+<a href="https://github.com/caseycui/robot_3d_perception">GitHub Repo</a>)
