@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of robotics, ML and other projects.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [work, machine learning]
 horizontal: false
 ---
 
