@@ -445,7 +445,7 @@ ninja.data = [{
               window.location.href = "/projects/Follow-Me/";
             },},{id: "projects-robot-arm-pick-and-place",
           title: 'Robot Arm Pick and Place',
-          description: "a project with a background image and giscus comments",
+          description: "item pick from random shelf location and place into collection bin in a simulation environment",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Robot-Arm-Pick-and-Place/";
             },},{
