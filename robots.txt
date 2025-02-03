@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://caseycui.github.io/al-folio/sitemap.xml
+User-agent: * Disallow: Sitemap: https://caseycui.github.io/sitemap.xml
