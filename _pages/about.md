@@ -28,7 +28,7 @@ latest_posts:
 
 Hello! My name is Qiujie (QJ), A machine learning engineer, roboticist, and tech enthusiast passionate about building smarter, more intuitive robots—especially for the kitchen and home. My research interests lie in developing algorithms that enable robots to learn from interaction, acquire perception and manipulation skills, and collaborate seamlessly with humans in real-world, long-horizon tasks.
 
-Besides robotics, I like to stay active, explore the great outdoors, travel, draw inspiration from nature, cultural experiences, and food, and learn something new about this big, beautiful world.
+Beyond robotics, I love staying active, exploring the great outdoors, traveling, hunting for good food, and soaking up inspiration from nature and different cultures — all while learning something new about this big, beautiful world.
 
 <!--- 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
