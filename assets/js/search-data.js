@@ -435,7 +435,7 @@ ninja.data = [{
               window.location.href = "/projects/9_project/";
             },},{id: "projects-deep-fashion-network",
           title: 'Deep Fashion Network',
-          description: "garment categorization network based off ResNet-50 and trained on Deep Fashion Database",
+          description: "garment categorization network based off ResNet-50",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Deep-Fashion-Network/";
             },},{id: "projects-follow-me",
