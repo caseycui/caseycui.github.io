@@ -398,11 +398,11 @@ ninja.data = [{
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-robot-arm-pick-and-place",
-          title: 'Robot Arm Pick and Place',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-3d-perception",
+          title: '3D Perception',
+          description: "Object Detection Using Point Cloud Data and Filter Pipelines",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
+              window.location.href = "/projects/3D-Perception/";
             },},{id: "projects-project-3-with-very-long-name",
           title: 'project 3 with very long name',
           description: "a project that redirects to another website",
@@ -438,6 +438,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-robot-arm-pick-and-place",
+          title: 'Robot Arm Pick and Place',
+          description: "a project with a background image and giscus comments",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Robot-Arm-Pick-and-Place/";
             },},{
         id: 'social-email',
         title: 'email',
