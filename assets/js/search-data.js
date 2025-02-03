@@ -438,6 +438,11 @@ ninja.data = [{
           description: "garment categorization network based off ResNet-50 and trained on Deep Fashion Database",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Deep-Fashion-Network/";
+            },},{id: "projects-follow-me",
+          title: 'Follow Me',
+          description: "Human Target Detection and Tracking via Semantic Segmentation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Follow-Me/";
             },},{id: "projects-robot-arm-pick-and-place",
           title: 'Robot Arm Pick and Place',
           description: "a project with a background image and giscus comments",
