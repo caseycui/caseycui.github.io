@@ -4,7 +4,7 @@ title: Follow Me
 description: Human Target Detection and Tracking via Semantic Segmentation
 img: assets/img/follow_me.gif
 importance: 2
-category: work
+category: robotics
 giscus_comments: true
 ---
 
