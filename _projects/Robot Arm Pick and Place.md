@@ -4,7 +4,7 @@ title: Robot Arm Pick and Place
 description: item pick from random shelf location and place into collection bin in a simulation environment
 img: assets/img/pick_n_place.gif
 importance: 2
-category: work
+category: robotics
 giscus_comments: true
 ---
 
