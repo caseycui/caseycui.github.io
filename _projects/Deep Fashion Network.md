@@ -2,7 +2,7 @@
 layout: page
 title: Deep Fashion Network
 description: garment categorization network based off ResNet-50 and trained on <a href="http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html">Deep Fashion Database</a>
-img: assets/img/deep_fashion_cat.jpg
+img: assets/img/deep_fashion_cat.JPG
 importance: 3
 category: fun
 ---
