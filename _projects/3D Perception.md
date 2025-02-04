@@ -6,7 +6,7 @@ img: assets/img/perception.jpg
 importance: 2
 category: robotics
 github: "https://github.com/caseycui/robot_3d_perception"
-giscus_comments: true
+giscus_comments: false
 ---
 
 Implemented a filtering pipeline (statistical outlier filter, down-sampling, passthrough filter, and RANSAC plane fitting) on Point Cloud data from a
