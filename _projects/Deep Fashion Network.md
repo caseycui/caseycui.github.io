@@ -4,7 +4,7 @@ title: Deep Fashion Network
 description: garment categorization network based off ResNet-50
 img: assets/img/deep_fashion_cat.JPG
 importance: 3
-github: https://github.com/caseycui/DeepFashionNetwork
+github: "https://github.com/caseycui/DeepFashionNetwork"
 category: machine learning
 ---
 
