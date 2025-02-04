@@ -27,18 +27,17 @@
     {
       "name": "Intel Corporation",
       "position": "Software Engineer",
-      "url": "https://www.aboutamazon.com/news/operations/amazon-robotics-robots-fulfillment-center",
       "startDate": "2013-07",
       "endDate": "2020-10",
       "summary": "Developed software models to simulate and validate architectural components of the Atom CPU line. Contributed to the modeling of 5+ generations of high-performance, low-power CPU architectures, collaborating with design and architecture teams on functional and performance enhancements. Scope of work includes feature incorporation, validation, model development, test methodology development, coverage analysis, bug-reproduction, test environment maintenance.",
-      "highlights": ["Large Scale Manipulation, Machine Learning Framework"]
+      "highlights": ["CPU Architecture, Model & Simulation"]
     }    
   ],
   "volunteer": [
     {
       "organization": "Intel Education Service Corps., USAID",
       "position": "Course Developer and Technical Trainer",
-      "url": "https://newsroom.intel.com/editorials/intel-galileo-makers-jordan-amman/",
+      "url": "https://download.intel.com/newsroom/2021/archive/2015-07-09-editorials-intel-galileo-makers-jordan-amman.pdf",
       "startDate": "2015-05",
       "endDate": "2015-06",
       "summary": "Led a 2-week workshop with team to give training on Intel Galileo Gen2 embedded platform to 70+ students/professors/technicians from 12 universities across Jordan. Developed training material and conducted Galileo-based lab sessions to show how to work with various types of sensors and actuators, as well as some advanced tools such as GPIO driver libraries and Linux programming mode. Float-around debug with different teams to work towards their final projects.",
@@ -88,13 +87,6 @@
       "name": "Machine Learning Engineer",
       "date": "2017-12",
       "issuer": "BitTiger"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
     }
   ],
   "publications": [
@@ -125,7 +117,7 @@
         "VLM/LLM",
         "Deep Neural Networks",
         "Generative Models",
-        "ALgorithms",
+        "Algorithms",
         "ML systems"        
       ]
     },
@@ -172,7 +164,18 @@
         "Long-horizon Tasks",
         "Kitchen/Household"
       ]
-    }
+    },
+    {
+      "name": "Machine Learning",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Generative Models",
+        "LLM",
+        "Imitation Learning",
+        "Reinforcement Learning",
+        "Deep Neural Networks"        
+      ]
+    }    
   ],
   "projects": [
     {
@@ -185,7 +188,7 @@
     {
       "name": "Robot Arm Pick and Place",
       "summary": "Developed ROS service nodes for Forward and Inverse Kinematics solvers for the KR-210 (6 DOF) robot, enabling item retrieval from random shelf locations and placement in designated bins using Gazebo simulation environment and MoveIt route planning for collision avoidance.",
-      "highlights": ["Pick and Place", "Inverse Kinematics"]
+      "highlights": ["Motion Planning", "Forward & Inverse Kinematics"]
     },
     {
       "name": "3D Perception -- perception and detection of objects using camera Point Cloud data",
@@ -225,7 +228,7 @@
     {
       "name": "Flying Spy Shark -- Camera-Equipped Toddler Safety Tracker",
       "summary": "Developed and installed a spy camera on an air-swimmer Shark balloon to stream live video via Wi-Fi to a computer, while tracking a toddler target. Utilized Intel Edison embedded platform to execute OpenCV-based video processing and control DC motors for the shark's fin and tail movements.",
-      "highlights": ["Lightweight Embedded System", "Target Tracking"]
+      "highlights": ["Lightweight Embedded System", "Computer Vision"]
     },
     {
       "name": "Isolation Game AI Player",
@@ -235,7 +238,7 @@
     {
       "name": "ASIC Design of Ultra-Low Power FIR Filter with Custom SRAM Design",
       "summary": "Developed a 16-channel digital FIR filter bank, progressing from RTL design to circuit implementation, with optimized data paths for sub-threshold operation. Designed a custom sub-threshold 8-T SRAM incorporating bit-line boosting and body biasing techniques. Implemented dynamic voltage scaling with PVT variation tolerance for SRAM using Canary Logic.",
-      "highlights": ["Ultra-Low Power", "FIR Filter"]
+      "highlights": ["Ultra-Low Power", "ASIC Design"]
     }
   ]
 }
