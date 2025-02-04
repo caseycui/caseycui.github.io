@@ -8,7 +8,7 @@ nav_order: 3
 display_categories: [robotics, machine learning]
 horizontal: false
 ---
-Check out the latest Projects in <a href="https://caseycui.github.io/cv/#projects-1">CV</a> under the "Projects" section on the left panel.
+Check out the latest Projects in <a href="https://caseycui.github.io/cv/#projects-1">cv</a> under the "Projects" section on the left panel.
 
 <!-- pages/projects.md -->
 <div class="projects">
