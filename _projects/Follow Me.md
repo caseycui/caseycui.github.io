@@ -5,7 +5,7 @@ description: Human Target Detection and Tracking via Semantic Segmentation
 img: assets/img/follow_me.gif
 importance: 2
 category: robotics
-giscus_comments: true
+giscus_comments: false
 ---
 
 Collected training and validation data with drone filming person of interest walking in a crowd with different backgrounds in the Unity simulation environment
