@@ -3,6 +3,7 @@ layout: page
 title: Follow Me
 description: Human Target Detection and Tracking via Semantic Segmentation
 img: assets/img/follow_me.gif
+github: "https://github.com/caseycui/FollowMe"
 importance: 2
 category: robotics
 giscus_comments: false
