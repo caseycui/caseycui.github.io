@@ -5,6 +5,7 @@ description: Object Detection Using Point Cloud Data and Filter Pipelines
 img: assets/img/perception.jpg
 importance: 2
 category: robotics
+github: "https://github.com/caseycui/robot_3d_perception"
 giscus_comments: true
 ---
 
