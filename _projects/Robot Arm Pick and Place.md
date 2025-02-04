@@ -3,9 +3,10 @@ layout: page
 title: Robot Arm Pick and Place
 description: item pick from random shelf location and place into collection bin in a simulation environment
 img: assets/img/pick_n_place.gif
+github: https://github.com/caseycui/robot_arm_pick_and_place/tree/master
 importance: 2
 category: robotics
-giscus_comments: true
+giscus_comments: false
 ---
 
 Developed ROS service nodes for Forward and Inverse Kinematics solvers for the KR-210 (6 DOF) robot, facilitating item retrieval from random
