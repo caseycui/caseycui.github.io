@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of robotics, ML and other projects.
+description: See the full list of projects on the CV tab.
 nav: true
 nav_order: 3
 display_categories: [robotics, machine learning]
