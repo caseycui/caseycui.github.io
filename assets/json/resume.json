@@ -191,6 +191,27 @@
       "endDate": "2024-09"
     },
     {
+      "name": "Video Stabilization using L1 trend fitting",
+      "summary": "Extracted frames from shaky footage and computed original camera path, and applied L1 trend fitting using 1st order, 2nd order and 3rd order derivative to generate desired smooth path with frame constraints. Back-calculated corrective matrix for each frame and applied to original footage to get stabilized video.",
+      "highlights": ["Computer Vision", "Linear Programming"],
+      "startDate": "2020-10",
+      "endDate": "2020-12"      
+    },    
+    {
+      "name": "Video target tracking using Kalman filter and Particle Filter",
+      "summary": "Tracked target person/object in video footage using continuous template update as target moves in/out, turns or even being occluded for a short period of time. Successful tracking using both Kalman filter and Particle Filter modeling of target velocity with measurement noise and movement uncertainty.",
+      "highlights": ["Target Tracking", "Kalman Filter", "Particle Filter"],
+      "startDate": "2020-10",
+      "endDate": "2020-12"      
+    },
+    {
+      "name": "Isolation Game AI Player",
+      "summary": "Implemented game bot for a two-player isolation game using MiniMax strategy to maximize evaluation function outcome for game bot. Optimized game bot via decision-tree alpha-beta pruning, iterative deepening, and custom evaluation function to beat naive bot 99.9% of time.",
+      "highlights": ["Decision Tree", "Alpha-beta Pruning"],
+      "startDate": "2019-08",
+      "endDate": "2019-10"       
+    },  
+    {
       "name": "Robot Arm Pick and Place",
       "summary": "Developed ROS service nodes for Forward and Inverse Kinematics solvers for the KR-210 (6 DOF) robot, enabling item retrieval from random shelf locations and placement in designated bins using Gazebo simulation environment and MoveIt route planning for collision avoidance.",
       "highlights": ["Motion Planning", "Forward & Inverse Kinematics"],
@@ -219,19 +240,12 @@
       "endDate": "2018-09"      
     },
     {
-      "name": "Video target tracking using Kalman filter and Particle Filter",
-      "summary": "Tracked target person/object in video footage using continuous template update as target moves in/out, turns or even being occluded for a short period of time. Successful tracking using both Kalman filter and Particle Filter modeling of target velocity with measurement noise and movement uncertainty.",
-      "highlights": ["Target Tracking", "Kalman Filter", "Particle Filter"],
-      "startDate": "2020-10",
-      "endDate": "2020-12"      
-    },
-    {
-      "name": "Video Stabilization using L1 trend fitting",
-      "summary": "Extracted frames from shaky footage and computed original camera path, and applied L1 trend fitting using 1st order, 2nd order and 3rd order derivative to generate desired smooth path with frame constraints. Back-calculated corrective matrix for each frame and applied to original footage to get stabilized video.",
-      "highlights": ["Computer Vision", "Linear Programming"],
-      "startDate": "2020-10",
-      "endDate": "2020-12"      
-    },
+      "name": "Warehouse Robot Navigation and Object Retrieval Simulation",
+      "summary": "Simulated a robot with noisy sensor and actuator to move around in an unknown warehouse with a given number of boxes to pick up. Path planning using A* search algorithm and smoothing. Using online SLAM to map environment and localize robot",
+      "highlights": ["SLAM", "A* Search"],
+      "startDate": "2017-08",
+      "endDate": "2017-12"       
+    },    
     {
       "name": "Fashion Recognition with Deep Neural Network",
       "summary": "Trained  a deep neural network over Deep Fashion Data set (800K labeled images) to recognize and categorize fashion items to a top3 accuracy of 86% among 50 categories. Based off ResNet-50, split the 2nd-to-last layer into bounding-box prediction and category prediction training to improve accuracy; break data set into 4 groups to train and cross-validation.",
@@ -240,25 +254,11 @@
       "endDate": "2017-07"      
     },
     {
-      "name": "Warehouse Robot Navigation and Object Retrieval Simulation",
-      "summary": "Simulated a robot with noisy sensor and actuator to move around in an unknown warehouse with a given number of boxes to pick up. Path planning using A* search algorithm and smoothing. Using online SLAM to map environment and localize robot",
-      "highlights": ["SLAM", "A* Search"],
-      "startDate": "2017-08",
-      "endDate": "2017-12"       
-    },
-    {
       "name": "Flying Spy Shark -- Camera-Equipped Toddler Safety Tracker",
       "summary": "Developed and installed a spy camera on an air-swimmer Shark balloon to stream live video via Wi-Fi to a computer, while tracking a toddler target. Utilized Intel Edison embedded platform to execute OpenCV-based video processing and control DC motors for the shark's fin and tail movements.",
       "highlights": ["Lightweight Embedded System", "Computer Vision"],
       "startDate": "2015-01",
       "endDate": "2015-05"       
-    },
-    {
-      "name": "Isolation Game AI Player",
-      "summary": "Implemented game bot for a two-player isolation game using MiniMax strategy to maximize evaluation function outcome for game bot. Optimized game bot via decision-tree alpha-beta pruning, iterative deepening, and custom evaluation function to beat naive bot 99.9% of time.",
-      "highlights": ["Decision Tree", "Alpha-beta Pruning"],
-      "startDate": "2019-08",
-      "endDate": "2019-10"       
     },
     {
       "name": "ASIC Design of Ultra-Low Power FIR Filter with Custom SRAM Design",
