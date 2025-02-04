@@ -18,6 +18,7 @@
               {% assign i = i | plus: 1 %}
             {% endfor %}
             <td colspan="{{ i }}" class="list-group-category">
+              {{ content.name }}
               <!---
               <a href="{{ content.url | default: # }}">{{ content.name }}</a>
               -->
